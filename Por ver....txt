@@ -1,0 +1,22 @@
+
+
+		Informe
+	-Arreglaramos el resumen (Por que?, Para que? )
+	-Arreglar la introduccion y la justificacion para que fuera en presente
+	-Propuesta de clase (Mejor explicacion de cada funcion ademas de agregarle su origen)
+	-Propuesta de UI ( primero la visualizacion, para despues mostrar la ventana de editar, para ello integrar el identificador)
+	-Gestion de Datos (Agregar el metodo para guardar las imagenes, como tambien los diversos archivos)
+	-Conclusion (Agregar lo que vamos haciendo)
+	
+		UML
+	
+	-Ordenar las flechas
+	-Agregar el package de funcionamiento
+	-Ademas de agregar mas funciones
+
+		Programa
+
+	-Separar las ventanas
+	-Reordenarlas
+	-Hacer el programa
+	-Aplicarle JavaFX
